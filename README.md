@@ -1,6 +1,6 @@
 # Acid for Telegram Desktop
 
-Two flavours: **Acetic** (`#000000`), vibrant, and **Citric** (`#1c1b19`), muted.
+Three flavours: **Acetic** (`#000000`), pure black with vibrant accents; **Citric** (`#1c1b19`), warm dark grey with muted accents; and **Lactic** (`#ffffff`), white with accents darkened to match.
 
 Part of [Acid](https://github.com/acid-theme/acid), a very dark colourscheme in two
 flavours. The main README lists the other ports.
@@ -31,6 +31,7 @@ nearest Acid accent. Entries that reference another entry upstream still do.
 
 - `acid-acetic.tdesktop-palette`
 - `acid-citric.tdesktop-palette`
+- `acid-lactic.tdesktop-palette`
 
 ## Generated
 
